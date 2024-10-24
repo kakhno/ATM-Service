@@ -1,0 +1,27 @@
+{
+  "FirstName": "John",
+  "LastName": "Doe",
+  "CardDetails": {
+    "CardNumber": "1234-5678-9012-3456",
+    "ExpirationDate": "12/25",
+    "CVC": "123",
+  },
+  "PinCode": "1234",
+  "TransactionHistory": [
+    {
+      "TransactionDate": "2024-10-23T22:00:00Z",
+      "TransactionType": "Deposit",
+      "Amount": 500.0,
+      "AmountUSD": 0.0,
+      "AmountEUR": 0.0
+    },
+    {
+      "TransactionDate": "2024-10-23T22:05:00Z",
+      "TransactionType": "Withdrawal",
+      "Amount": 200.0,
+      "AmountUSD": 0.0,
+      "AmountEUR": 0.0
+    }
+
+  ]
+}

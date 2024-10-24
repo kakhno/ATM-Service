@@ -1,0 +1,25 @@
+C:\Users\C\Desktop\Final 1\Final 1\obj\Debug\net8.0\Final 1.csproj.AssemblyReference.cache
+C:\Users\C\Desktop\Final 1\Final 1\obj\Debug\net8.0\Final 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C\Desktop\Final 1\Final 1\obj\Debug\net8.0\Final 1.AssemblyInfoInputs.cache
+C:\Users\C\Desktop\Final 1\Final 1\obj\Debug\net8.0\Final 1.AssemblyInfo.cs
+C:\Users\C\Desktop\Final 1\Final 1\obj\Debug\net8.0\Final 1.csproj.CoreCompileInputs.cache
+C:\Users\C\Desktop\Final 1\Final 1\bin\Debug\net8.0\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\C\Desktop\Final 1\Final 1\bin\Debug\net8.0\Cosmos.CRTCompat.dll
+C:\Users\C\Desktop\Final 1\Final 1\bin\Debug\net8.0\Final 1.exe
+C:\Users\C\Desktop\Final 1\Final 1\bin\Debug\net8.0\Final 1.deps.json
+C:\Users\C\Desktop\Final 1\Final 1\bin\Debug\net8.0\Final 1.runtimeconfig.json
+C:\Users\C\Desktop\Final 1\Final 1\bin\Debug\net8.0\Final 1.dll
+C:\Users\C\Desktop\Final 1\Final 1\bin\Debug\net8.0\Final 1.pdb
+C:\Users\C\Desktop\Final 1\Final 1\bin\Debug\net8.0\Microsoft.Azure.DocumentDB.Core.dll
+C:\Users\C\Desktop\Final 1\Final 1\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\C\Desktop\Final 1\Final 1\bin\Debug\net8.0\runtimes\win7-x64\native\Cosmos.CRTCompat.dll
+C:\Users\C\Desktop\Final 1\Final 1\bin\Debug\net8.0\runtimes\win7-x64\native\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\C\Desktop\Final 1\Final 1\bin\Debug\net8.0\runtimes\win7-x64\native\msvcp140.dll
+C:\Users\C\Desktop\Final 1\Final 1\bin\Debug\net8.0\runtimes\win7-x64\native\vcruntime140.dll
+C:\Users\C\Desktop\Final 1\Final 1\bin\Debug\net8.0\runtimes\win7-x64\native\vcruntime140_1.dll
+C:\Users\C\Desktop\Final 1\Final 1\obj\Debug\net8.0\Final 1.csproj.Up2Date
+C:\Users\C\Desktop\Final 1\Final 1\obj\Debug\net8.0\Final 1.dll
+C:\Users\C\Desktop\Final 1\Final 1\obj\Debug\net8.0\refint\Final 1.dll
+C:\Users\C\Desktop\Final 1\Final 1\obj\Debug\net8.0\Final 1.pdb
+C:\Users\C\Desktop\Final 1\Final 1\obj\Debug\net8.0\Final 1.genruntimeconfig.cache
+C:\Users\C\Desktop\Final 1\Final 1\obj\Debug\net8.0\ref\Final 1.dll
